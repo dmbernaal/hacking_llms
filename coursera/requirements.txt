@@ -1,0 +1,10 @@
+pandas
+torch
+torchvision
+torchaudio
+torchtext
+spacy
+altair
+flake8
+black
+wandb
